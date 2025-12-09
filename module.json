@@ -14,8 +14,7 @@
   },
   "systems": ["dnd5e"],
   "url": "https://github.com/planechase1520/Foundry5e",
-  "manifest": "https://raw.githubusercontent.com/planechase1520/Foundry5e/main/modules/tales-of-arcana-races/module.json",
-
+  "manifest": "https://raw.githubusercontent.com/planechase1520/Foundry5e/main/module.json",
   "license": "CC0",
   "readme": "README.md",
   "changelog": "CHANGELOG.md",

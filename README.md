@@ -52,7 +52,14 @@ Includes races such as:
 
 ## License
 
-This module is provided under the CC0 1.0 Universal Public Domain Dedication.
+This module is licensed under **CC-BY-NC-ND** (Creative Commons Attribution - Non-Commercial - No Derivatives).
+
+### Attribution
+
+**Race Data & Artwork**: Tales of Arcana RPG  
+**Artist**: [Tales of Arcana on DeviantArt](https://www.deviantart.com/talesofarcanarpg)
+
+This module is for **private/personal use only**. Commercial redistribution is not permitted.
 
 ## Support
 

@@ -16,7 +16,7 @@
   "url": "https://github.com/planechase1520/Foundry5e",
   "manifest": "https://raw.githubusercontent.com/planechase1520/Foundry5e/main/module.json",
   "download": "https://github.com/planechase1520/Foundry5e/archive/refs/tags/v1.0.0.zip",
-  "license": "CC0",
+  "license": "CC-BY-NC-ND",
   "readme": "README.md",
   "changelog": "CHANGELOG.md",
   "packs": [

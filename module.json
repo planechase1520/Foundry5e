@@ -24,7 +24,7 @@
       "name": "races",
       "label": "Tales of Arcana Races",
       "path": "packs/races.db",
-      "type": "Actor",
+      "type": "Item",
       "system": "dnd5e"
     }
   ],
